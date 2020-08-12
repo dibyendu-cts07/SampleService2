@@ -1,1 +1,1 @@
-Movie Cruiser Application
+Movie Service
